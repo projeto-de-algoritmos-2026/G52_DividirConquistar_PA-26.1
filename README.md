@@ -17,7 +17,7 @@ Esse projeto tem como objetivo mostrar a utilização do Algotitmo de Mediana da
 
 
 ## Screenshots Do Trabalho
-![Imagem 1](img\termsnap.png)<br>
+![Imagem 1](img/termsnap.png)<br>
 
 
 
